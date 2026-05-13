@@ -69,14 +69,6 @@ I'm a Bioinformatics Data Scientist with 5+ years of experience building scalabl
 
 ---
 
-##  Certifications
-
-- Genomic Data Science Specialization — *Coursera*
-- Python for Genomic Data Science — *Coursera*
-- Cloud Computing for Bioinformatics — *Coursera*
-- Bioinformatics Specialization — *Coursera*
-- Algorithms for DNA Sequencing — *Coursera*
-- SQL for Data Science — *Coursera*
 
 ---
 
